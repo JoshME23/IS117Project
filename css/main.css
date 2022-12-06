@@ -1,0 +1,58 @@
+/* DEVELOPER: Joshua Esteves, IS117-001, Spring 2020 */
+
+body {
+    background-color: whitesmoke;
+}
+
+.navbar {
+    background-color: papayawhip;
+}
+
+.carousel-inner {
+    height: 360px;
+    min-width: 100%;
+}
+
+form {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    max-width: 50% !important;
+}
+
+.contact-title {
+    text-align: center;
+}
+
+.gallery {
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.PricingCards {
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 3rem;
+}
+
+.PricingCards .card {
+    min-height: 400px;
+}
+
+.landmarks .card-img {
+    max-height: 250px;
+}
+
+/* footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: papayawhip;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+}
